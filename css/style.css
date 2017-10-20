@@ -1,18 +1,49 @@
-.navbar{
-    background: #2577A1;
+.container{
+    max-width: 960px;
+    background-color:#ffffff;
+}
+.container.nav {
+    background-color: #2577A1;
 }
 
-.logo{
+.navbar-brand {
     font-family: 'Paytone One', sans-serif;
     color:#ffffff;
     font-size:30px;
+    background-color: #2577A1;
 }
 
-.header{
+.bg-light{
+    background-color:#2577A1; 
+}
+
+.customnav{
+    background-color:#2577A1; 
+}
+
+.navbar-light .navbar-brand{
+    color:#ffffff;
+}
+
+.col-4{
     font-family: 'Paytone One', sans-serif;
     font-size:28px;
+    color:#EDB266;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
+
+
+input{
+   width:100%; 
+}
+
+
+#mce-MESSAGE{
+    height:150px;
+    margin-bottom: 20px;
+}
 .emailbox{
     background: #66BFED;
     border-color: #ffffff;
@@ -25,21 +56,16 @@
 }
 
 .button{
+    border:none;
     font-family: 'Droid Sans', sans-serif;
-    font-size:18px;
+    font-size:16px;
     background: #2577A1;
     color: #ffffff;
 }
 
-.maintext{
+.card-text{
     font-family: 'Droid Sans', sans-serif;
     font-size: 16px;
     color:#777777;
 }
 
-.footer{
-    position:fixed;
-    font-family: 'Droid Sans', sans-serif;
-    background:#2577A1;
-    color:#ffffff;
-}
