@@ -1,0 +1,45 @@
+.navbar{
+    background: #2577A1;
+}
+
+.logo{
+    font-family: 'Paytone One', sans-serif;
+    color:#ffffff;
+    font-size:30px;
+}
+
+.header{
+    font-family: 'Paytone One', sans-serif;
+    font-size:28px;
+}
+
+.emailbox{
+    background: #66BFED;
+    border-color: #ffffff;
+}
+
+.emailtext{
+    font-family:'Droid Sans', sans-serif;
+    font-size:18px;
+    color:#ffffff;
+}
+
+.button{
+    font-family: 'Droid Sans', sans-serif;
+    font-size:18px;
+    background: #2577A1;
+    color: #ffffff;
+}
+
+.maintext{
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+    color:#777777;
+}
+
+.footer{
+    position:fixed;
+    font-family: 'Droid Sans', sans-serif;
+    background:#2577A1;
+    color:#ffffff;
+}
